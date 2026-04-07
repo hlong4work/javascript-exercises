@@ -2,7 +2,7 @@ const repeatString = function(string, num) {
     output="";
     if(num , num<0, num--){
         output+=string;
-        return output;
+        
     } 
 
 };
